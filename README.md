@@ -36,8 +36,14 @@ private_key = "PRIVATE_KEY_HERE"
 python bot.py
 ```
 
+## Bridge
+
  🚥 Bridge Sepolia to Unichain: [UNICHAIN BRIDGE](https://testnet.brid.gg/unichain-sepolia?amount=&originChainId=11155111&token=ETH)
+   
    ✨ Connect Wallet
+
    ✨ Input amount and proceed, click "I Understand" and confirm transaction
+
    ✨ Bridge half the amount back [Unichain ->> Sepolia] and click "I understand"
+
    ✨ Add the chain popup! to Metamask/ Rabby Automatically
